@@ -283,7 +283,7 @@ In the above example, you verified that the policy correctly rejects requests th
 .. Click the *Request API Access* button to register an app to your API
 .. Register a new application to the API (for this tutorial, you can leave Redirect URI empty), then click  *Request API Access*
 .. Back in your API Version page, see the *Application* tab in the lower section, you should see application you just registered listed there. Get the client id and secret for that application.
-.  Open the link:https://localhost:8082/console[API console]  
+.  Open the link:https://localhost:8082/leagues-console[API console]  
 . Through the API Console UI, try to send a request the teams resource. Fill in the fields with the following:
 +
 
